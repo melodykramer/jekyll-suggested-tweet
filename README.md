@@ -10,7 +10,9 @@ A [Liquid tag](http://wiki.shopify.com/Liquid) for [Jekyll](http://jekyllrb.com/
 
 (John did all wranglin’ of Rich’s code. I just bought him pizza and told him what I wanted.)
 
-A big thanks to [Rich Hollis’s](https://github.com/richhollis) [Twitter Web Intents Ruby Gem](https://github.com/richhollis/twitter_web_intents) upon which this plugin is based.
+## Big Thanks
+
+This plugin is based upon [Rich Hollis’s](https://github.com/richhollis) [Twitter Web Intents Ruby Gem](https://github.com/richhollis/twitter_web_intents).
 * __Source:__ [https://github.com/richhollis/twitter_web_intents](https://github.com/richhollis/twitter_web_intents)
 
 Please note that you’ll need to install the Twitter Web Intents gem as it’s required.
